@@ -1,0 +1,14 @@
+
+{
+"name":"supeWallet",
+"version":"1.0.0",
+"description":"First AI Crypto Wallet",
+"manifest_version":3,
+"action": {
+   "default_popup":"index.html",
+   "default_title":"AI Wallet"
+},
+"permissions":[
+  "storage"
+]
+}
